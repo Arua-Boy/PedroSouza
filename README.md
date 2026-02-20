@@ -1,12 +1,12 @@
 <table border="0">
   <tr>
-    <td width="65%">
-      <h1>Hi, I'm Pedro Souza! 👋</h1>
+    <td width="65%" valign="middle">
+      <h1>Hi, I'm Pedro Souza! Greetings. 👋</h1>
       <h3>🛡️ Cybersecurity Student & Systems Developer</h3>
       <p>Focused on Infrastructure Protection, and Automation.</p>
       <p>Currently studying at <b>SENAI</b> and training as a <b>Civil Firefighter/Brigadist</b>.</p>
     </td>
-    <td width="35%" align="center">
+    <td width="35%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="180" />
     </td>
   </tr>
