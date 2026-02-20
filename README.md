@@ -9,8 +9,12 @@ Atualmente estou focado em aprender como proteger sistemas e automatizar process
 - Linguagem Principal: Python.
 - Idiomas: Português (Nativo) e Inglês (Em desenvolvimento).
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Brigada](https://img.shields.io/badge/BRIGADA_&_BOMBEIRO-E34F26?style=for-the-badge&logo=fire-extinguisher&logoColor=white)
+![Cibersegurança](https://img.shields.io/badge/CIBERSEGURANÇA-000000?style=for-the-badge&logo=hackthebox&logoColor=9fe117)
+![Inglês](https://img.shields.io/badge/INGLÊS-002395?style=for-the-badge&logo=duolingo&logoColor=white)
+
+![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=Arua-Boy&show_icons=true&theme=radical)
+
 > *"Segurança não é um produto, é um processo."*
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
