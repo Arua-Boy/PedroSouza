@@ -7,7 +7,7 @@
       <p>Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.</p>
       <p>Currently studying at <b>SENAI</b> and training as a <b>Civil Firefighter/Brigadist</b>.</p>
     </td>
-    <td width="180px" align="center" valign="middle">
+    <td width="180px" align="right" valign="right">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="180" />
     </td>
   </tr>
