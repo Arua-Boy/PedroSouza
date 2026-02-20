@@ -1,11 +1,16 @@
-# Hi, I'm Pedro Souza! 👋
-
-<div align="center">
-  <img src="https://media.tenor.com/T0_Vf6E4zY0AAAAC/mewtwo-pokemon.gif" width="300" />
-</div>
-
-### 🛡️ Cybersecurity Student & Systems Developer
-*Focused on Infrastructure Protection, and Automation.*
+<table border="0">
+  <tr>
+    <td width="65%">
+      <h1>Hi, I'm Pedro Souza! 👋</h1>
+      <h3>🛡️ Cybersecurity Student & Systems Developer</h3>
+      <p>Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.</p>
+      <p>Currently studying at <b>SENAI</b> and training as a <b>Civil Firefighter/Brigadist</b>.</p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -18,4 +23,7 @@
 
 ---
 
-> "Security is not a product, but a process." - Bruce Schneier
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arua-Boy&show_icons=true&theme=radical&hide_border=true" />
+</div>
