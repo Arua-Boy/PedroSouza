@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" align="right" width="180" />
 
 <p align="left">
-  <font size="7"><b>Hi, I'm Pedro Souza! 👋</b></font>
+  <font size="7"><b>Hi, I'm Pedro Souza! 👋</b><br>Greetings!</font>
   <br />
-  <hr align="left" width="80%">
+  <hr align="left" width="50%">
 </p>
 
-### 🛡️ Cybersecurity Student (SENAI) & Systems Development Technician
+## 🛡️ Cybersecurity Student (SENAI) & Systems Development Technician
 Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.
 
 Currently studying **Systems Development** and training as a **Cybersecurity Specialist** at SENAI. Also a **Civil Firefighter/Brigadist**.
