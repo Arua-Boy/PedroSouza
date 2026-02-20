@@ -1,9 +1,11 @@
 # Hi, I'm Pedro Souza! Greetings! 👋
 <hr width="50%" align="left" />
 
-### 🛡️ Cybersecurity Student (SENAI) & Systems Development Technician
-Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.
+# About Me!
+<hr width="50%" align="left" />
 
+🛡️ Cybersecurity Student (SENAI) & Systems Development Technician
+Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.
 Currently studying **Systems Development** and training as a **Cybersecurity Specialist** at SENAI. Also a **Civil Firefighter/Brigadist**.
 
 <br clear="right"/>
