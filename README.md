@@ -1,8 +1,7 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Hi, I'm Pedro Souza! 👋</h1>
-      <h1>Greetings!</h1>
+      <h1>Hi, I'm Pedro Souza! 👋</h1><h1>Greetings!</h1>
       <p>🛡️ <b>Cybersecurity Student (SENAI) & Systems Development Technician</b></p>
     </td>
     <td valign="top">
