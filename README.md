@@ -14,7 +14,5 @@ Atualmente estou focado em aprender como proteger sistemas e automatizar process
 ![Cibersegurança](https://img.shields.io/badge/CIBERSEGURANÇA-000000?style=for-the-badge&logo=hackthebox&logoColor=9fe117)
 ![Inglês](https://img.shields.io/badge/INGLÊS-002395?style=for-the-badge&logo=duolingo&logoColor=white)
 
-![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=Arua-Boy&show_icons=true&theme=radical)
-
 > *"Segurança não é um produto, é um processo."*
 
