@@ -18,13 +18,4 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arua-Boy&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arua-Boy&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 > "Security is not a product, but a process." - Bruce Schneier
