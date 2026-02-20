@@ -1,17 +1,14 @@
-<table border="0">
-  <tr>
-    <td align="left" valign="top">
-      <h2>Hi, I'm Pedro Souza! Greetings! 👋</h2>
-      <hr>
-      <h3>🛡️ Cybersecurity Student & Systems Developer</h3>
-      <p>Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.</p>
-      <p>Currently studying at <b>SENAI</b> and training as a <b>Civil Firefighter/Brigadist</b>.</p>
-    </td>
-    <td align="center" valign="top" width="200">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="180" />
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" align="right" width="200" style="margin-top: 20px;">
+
+# Hi, I'm Pedro Souza! Greetings! 👋
+<hr />
+
+### 🛡️ Cybersecurity Student & Systems Developer
+Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.
+
+Currently studying at **SENAI** and training as a **Civil Firefighter/Brigadist**.
+
+<br clear="right"/>
 
 ---
 
