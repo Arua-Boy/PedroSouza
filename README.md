@@ -3,7 +3,7 @@
 <p align="left">
   <font size="7"><b>Hi, I'm Pedro Souza! 👋</b></font>
   <br />
-  <hr align="left" width="50%">
+  <hr align="left" width="80%">
 </p>
 
 ### 🛡️ Cybersecurity Student (SENAI) & Systems Development Technician
