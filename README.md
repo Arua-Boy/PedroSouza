@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td align="left" valign="top">
-      <h2>Hi, I'm Pedro Souza! 👋</h2>
+      <h2>Hi, I'm Pedro Souza! Greetings! 👋</h2>
       <hr>
       <h3>🛡️ Cybersecurity Student & Systems Developer</h3>
       <p>Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.</p>
