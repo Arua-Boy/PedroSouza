@@ -1,16 +1,18 @@
+<div align="center">
 <table border="0">
   <tr>
-    <td width="65%" valign="middle">
-      <h1>Hi, I'm Pedro Souza! Greetings. 👋</h1>
+    <td width="400px" align="left" valign="middle">
+      <h1>Hi, I'm Pedro Souza! 👋</h1>
       <h3>🛡️ Cybersecurity Student & Systems Developer</h3>
-      <p>Focused on Infrastructure Protection, and Automation.</p>
+      <p>Focused on Infrastructure Protection, Automation, and Canada 2028 Plan.</p>
       <p>Currently studying at <b>SENAI</b> and training as a <b>Civil Firefighter/Brigadist</b>.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
+    <td width="300px" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="180" />
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
